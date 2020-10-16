@@ -1,2 +1,1 @@
-# step-3
-Linear and Multi Regression
+# Linear and Multi Regression
